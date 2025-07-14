@@ -1,8 +1,3 @@
-/*
- * Hola este es un programa 
- * para un CRUD basico de una escuela
- * */
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
