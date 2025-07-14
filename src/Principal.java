@@ -1,3 +1,8 @@
+/*
+ * Hola este es un programa 
+ * para un CRUD basico de una escuela
+ * */
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -6,6 +11,10 @@ public class Principal {
 
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
+		
+		// para probar git
+		int numeroX = 10;
+		System.out.println(numeroX);
 		
 		Scanner lectura = null;
 		
